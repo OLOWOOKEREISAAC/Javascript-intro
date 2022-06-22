@@ -4,5 +4,6 @@ let country = ' Nigeria'
 
 intro = 'NAME : ' + myName + '   \n  HEIGHT : ' + height + ' \n  COUNTRY : ' + country
 
-document.write( intro );
+
+alert( intro );
 console.log(intro)
